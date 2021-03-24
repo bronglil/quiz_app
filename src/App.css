@@ -1,0 +1,44 @@
+/*{
+  background-color: #ffffff;
+}
+.App {
+  text-align: center;
+  margin-top: 120px;
+
+}
+.header{
+  margin-left: 200px;
+  font-weight: bold;
+  font-family: sans-serif;
+  padding: 20px;
+  font-size: 1rem;
+  background-color: red;
+  color: #151512;
+  width: 70%;
+  overflow-wrap: break-word;
+
+}
+.buttons{
+  background-color: #e5e6e5;
+  margin: 30px;
+  padding: 10px;
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-family: sans-serif;
+  text-decoration: none;
+  font-weight: bold;
+  overflow-wrap: break-word;
+  overflow: hidden;
+}
+.buttons:hover {
+
+    background-color: #c8ffbb;
+}
+*/
+.progressBar {
+  width: 100%;
+  border-radius: 15px;
+  margin-top: 2px;
+}
